@@ -1,2 +1,2 @@
 # wenbuding
-update-5.2
+update-5.24
